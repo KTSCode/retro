@@ -181,6 +181,10 @@ html {
   font-size: 18px !important;
 }
 
+div {
+  background-color: #222 !important;
+}
+
 body {
   color: #fafafa !important;
   font-family: "Courier New !important";
