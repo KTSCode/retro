@@ -202,3 +202,7 @@ blockquote {
   border-left: 3px solid #01ff70 !important;
   padding-left: 1rem !important;
 }
+
+.readme .markdown-body, .readme .plain {
+  background-color: #222;
+}
