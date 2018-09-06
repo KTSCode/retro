@@ -204,5 +204,5 @@ blockquote {
 }
 
 .readme .markdown-body, .readme .plain {
-  background-color: #222;
+  background-color: #222 !important;
 }
