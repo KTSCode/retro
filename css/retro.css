@@ -1,6 +1,6 @@
 pre,
 code {
-  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-family: Menlo, Monaco, "Courier New", monospace !important;
 }
 
 pre {
@@ -201,6 +201,13 @@ pre {
 blockquote {
   border-left: 3px solid #01ff70 !important;
   padding-left: 1rem !important;
+}
+.preview-page {
+  margin-top: 0 !important;
+}
+
+.boxed-group>h3, .boxed-group .heading {
+  background-color: #222 !important;
 }
 
 .readme .markdown-body, .readme .plain {
