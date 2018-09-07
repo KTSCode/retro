@@ -187,7 +187,7 @@ div {
 
 body {
   color: #fafafa !important;
-  font-family: "Courier New !important";
+  font-family: "Courier New"!important ;
   line-height: 1.45 !important;
   margin: 0 auto 1rem !important;
   max-width: 48rem !important;
